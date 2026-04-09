@@ -3,21 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;     
-    background: conic-gradient(  
-        from 0deg at 52% 79%,
-        /* Sector 1 */
-        rgba(247, 183, 181) 0deg 107.5deg,
-        /* Line 1 */
-        black 107.5deg 108.5deg,
-        /* Sector 2 */
-        rgba(231, 153, 150) 108.5deg 269.5deg,
-        /* Line 2 */
-        black 269.5deg 270.5deg,
-        /* Sector 3 */
-        rgba(247, 183, 181) 270.5deg 359.5deg,
-        /* Line 3 - The vertical border */
-        rgba(247, 183, 181)
-    );
+    background: rgba(247, 183, 181);
 }
 
 
